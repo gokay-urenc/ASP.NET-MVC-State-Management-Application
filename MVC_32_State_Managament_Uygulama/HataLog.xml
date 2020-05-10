@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hatalar>
+  <Hata>
+    <HataMesaji>The controller for path '/Default/Text' was not found or does not implement IController.</HataMesaji>
+    <HataTarihi>7.03.2019 13:01:32</HataTarihi>
+    <MakineIP>::1</MakineIP>
+  </Hata>
+  <Hata>
+    <HataMesaji>The controller for path '/Default/Text' was not found or does not implement IController.</HataMesaji>
+    <HataTarihi>7.03.2019 13:02:42</HataTarihi>
+    <MakineIP>::1</MakineIP>
+  </Hata>
+  <Hata>
+    <HataMesaji>Sıfırla bölme girişiminde bulunuldu.</HataMesaji>
+    <HataTarihi>7.03.2019 13:08:42</HataTarihi>
+    <MakineIP>::1</MakineIP>
+  </Hata>
+</Hatalar>
